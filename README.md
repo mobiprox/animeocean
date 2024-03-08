@@ -12,25 +12,35 @@
 
 <br />
 
-### Demo Screenshots
+## Demo Screenshots
 
-## Homepage
+### Homepage
 
 <img src="./assets/images/www.animeocean.top.png"/>
 
-## Details page
+### Details page
 
 <img src="./assets/images/www.animeocean.top1.png"/>
 
-### Prerequisites
+## How this script functions
+AnimeOcean uses The Movie Database to get selectively Anime movies and TV Show data. It also uses different free video sources to embed videos for the Anime based on the Tmdb ID. It comes with a live search feature that makes use of AJAX to simultaneously search movies and TV shows and then filters them to only render Animations.
+
+The <pre>movie.php</pre> file is responsible for displaying all different movie details based on the submitted movie ID
+The <pre>tv.php</pre> file is responsible for displaying all different TV Show details based on the submitted movie ID
+The <pre>api.php</pre> file contains the TMDB API class, and you will need to edit it with your own TMDB API.
+<pre>movies.php</pre> displays list of recent movies while the <pre>tvshows.php</pre> is for displaying the TV Show list.
+
+Menu, header and footer files are found in the /include folder.
+
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+## Run Locally
 
-To run **Filmlane** locally, run this command on your git bash:
+To run **AnimeOcean** locally, run this command on your git bash:
 
 Linux and macOS:
 
