@@ -14,7 +14,13 @@
 
 ### Demo Screenshots
 
-![AnimeOcean Desktop Demo]( "Desktop Demo")
+## Homepage
+
+<img src="./assets/images/www.animeocean.top.png"/>
+
+## Details page
+
+<img src="./assets/images/www.animeocean.top1.png"/>
 
 ### Prerequisites
 
