@@ -1,29 +1,20 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
+  <img src="https://animeocean.top/assets/images/banner.png" style="width:25%;"/>
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+  <h2 align="center">Watch Latest Anime Movies & TV Shows | AnimeOcean</h2>
 
-  <h2 align="center">Filmlane - Movie website</h2>
+ Watch the Latest trending and popular Japanese anime Movies and TV Shows for free in HD in Both English Dubbed, Subbed as well as French subbed built with PHP and TMDB API based on <a href="https://github.com/codewithsadee/filmlane">Filmelane design</a>
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.animeocean.top"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![AnimeOcean Desktop Demo]( "Desktop Demo")
 
 ### Prerequisites
 
@@ -38,19 +29,14 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/mobiprox/animeocean.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/mobiprox/animeocean.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contain any license.
