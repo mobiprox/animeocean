@@ -174,6 +174,6 @@ public function getLatestAnimeTV($page = 1, $minDate = null, $maxDate = '2024-12
 }
 
 // Instantiate TmdbApi class with your API key
-$apiKey = 'e0c510224462be5f3722d2e3ee04a00a';
+$apiKey = 'YOUR_API_KEY'; // Change with your TMDB API Key
 $tmdbApi = new TmdbApi($apiKey);
 ?>
