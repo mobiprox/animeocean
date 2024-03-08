@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+  RewriteRule ^([^\.]+)$ $1.php [NC,L]
+  RewriteRule ^movie/([^/]+)$ movie.php?id=$1 [L,QSA]
+  RewriteRule ^tv/([^/]+)$ tv.php?id=$1 [L,QSA]
+</IfModule>
