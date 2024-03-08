@@ -1,0 +1,449 @@
+{
+    "46392": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10759,
+            16,
+            35
+        ],
+        "id": 46392,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30c7\u30e5\u30a8\u30eb\u30fb\u30de\u30b9\u30bf\u30fc\u30ba",
+        "overview": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+        "popularity": 974.235,
+        "poster_path": "\/bZEhSAooW0rWGhFisuwtvRZ2vSm.jpg",
+        "first_air_date": "2002-10-21",
+        "name": "Duel Masters",
+        "vote_average": 5.7,
+        "vote_count": 11
+    },
+    "9537": {
+        "adult": false,
+        "backdrop_path": "\/nPHKNEKpkH0JA58EsyGTFq6YCuU.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 9537,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u3042\u305f\u3057\u30f3\u3061",
+        "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+        "popularity": 921.373,
+        "poster_path": "\/kJbSGEOTMEMIy2twCYkA5KnG25.jpg",
+        "first_air_date": "2002-04-19",
+        "name": "My Family",
+        "vote_average": 8.8,
+        "vote_count": 11
+    },
+    "132791": {
+        "adult": false,
+        "backdrop_path": "\/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765,
+            35,
+            10751
+        ],
+        "id": 132791,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30d1\u30fc\u30de\u30f3",
+        "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+        "popularity": 796.487,
+        "poster_path": "\/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+        "first_air_date": "1983-04-04",
+        "name": "SUPERKID",
+        "vote_average": 9,
+        "vote_count": 3
+    },
+    "65733": {
+        "adult": false,
+        "backdrop_path": "\/9wLRrDBRGtCD68BRF7BsD0RHHQ3.jpg",
+        "genre_ids": [
+            10759,
+            16,
+            35,
+            10765
+        ],
+        "id": 65733,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30c9\u30e9\u3048\u3082\u3093",
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "popularity": 674.503,
+        "poster_path": "\/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "first_air_date": "2005-04-22",
+        "name": "Doraemon",
+        "vote_average": 7.8,
+        "vote_count": 107
+    },
+    "57775": {
+        "adult": false,
+        "backdrop_path": "\/7t4NLSq6rsdPh5uwkQWyMowzVyK.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 57775,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u3061\u3073\u307e\u308b\u5b50\u3061\u3083\u3093",
+        "overview": "Momoko Sakura is an elementary school student who likes popular  idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\"  due to her young age and small size. She lives together with her  parents, her grandparents and her elder sister in a little town. In  school, she has many friends with whom she studies and plays together  everyday, including her close pal, Tama-chan; the student committee  members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master'  Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun.",
+        "popularity": 636.638,
+        "poster_path": "\/r82VxNSbsIkgukLjjSlQ9wx77jj.jpg",
+        "first_air_date": "1990-01-07",
+        "name": "Chibi Maruko-chan",
+        "vote_average": 8.1,
+        "vote_count": 13
+    },
+    "60572": {
+        "adult": false,
+        "backdrop_path": "\/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "id": 60572,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc",
+        "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pok\u00e9mon Master.",
+        "popularity": 672.199,
+        "poster_path": "\/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+        "first_air_date": "1997-04-01",
+        "name": "Pok\u00e9mon",
+        "vote_average": 7.747,
+        "vote_count": 1645
+    },
+    "80885": {
+        "adult": false,
+        "backdrop_path": "\/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            35,
+            10751,
+            10762
+        ],
+        "id": 80885,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u5fcd\u8005\u30cf\u30c3\u30c8\u30ea\u304f\u3093",
+        "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
+        "popularity": 916.35,
+        "poster_path": "\/9PUkpvq0wJnJ2M00dtgxKn6LptB.jpg",
+        "first_air_date": "1981-09-28",
+        "name": "Ninja Hattori-kun",
+        "vote_average": 6.846,
+        "vote_count": 26
+    },
+    "56426": {
+        "adult": false,
+        "backdrop_path": "\/exAYKMbS19gtoyJbeSUnlR2cXFO.jpg",
+        "genre_ids": [
+            16,
+            35,
+            80,
+            10751,
+            10759
+        ],
+        "id": 56426,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u3053\u3061\u3089\u845b\u98fe\u533a\u4e80\u6709\u516c\u5712\u524d\u6d3e\u51fa\u6240",
+        "overview": "Ryoutsu, being an underpayed policeman, is always coming up with ways to make some quick money. But in the end, his plans which are ridiculous from the beginning always go wrong and land him in big trouble.",
+        "popularity": 531.187,
+        "poster_path": "\/5rXJ9r9xe6WPyuCUNGf7cQMHTWT.jpg",
+        "first_air_date": "1996-06-16",
+        "name": "KochiKame",
+        "vote_average": 7.5,
+        "vote_count": 3
+    },
+    "37567": {
+        "adult": false,
+        "backdrop_path": "\/uuCfuKAZsobW8sUFK9DTrx55pxB.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10765
+        ],
+        "id": 37567,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "Dr.\u30b9\u30e9\u30f3\u30d7 \u30a2\u30e9\u30ec\u3061\u3083\u3093",
+        "overview": "Follows the humorous adventures of the little girl robot Arale Norimaki, her creator Senbei Norimaki, and the other residents of the bizarre Penguin Village.",
+        "popularity": 386.881,
+        "poster_path": "\/AdTMMNiT8HGGlq17AwDTihsGzhF.jpg",
+        "first_air_date": "1981-04-08",
+        "name": "Dr. Slump",
+        "vote_average": 8,
+        "vote_count": 108
+    },
+    "95479": {
+        "adult": false,
+        "backdrop_path": "\/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "id": 95479,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u546a\u8853\u5efb\u6226",
+        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+        "popularity": 677.647,
+        "poster_path": "\/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "first_air_date": "2020-10-03",
+        "name": "Jujutsu Kaisen",
+        "vote_average": 8.582,
+        "vote_count": 3176
+    },
+    "44815": {
+        "adult": false,
+        "backdrop_path": "\/7Sn9xgoyjqsWOgSDAzdpzqiqTAt.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 44815,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u4e00\u4f11\u3055\u3093",
+        "overview": "The mischievous adventures of a young Ikky\u016b during his stay at Ankoku Temple. He relies on his intelligence and wit to solve all types of problems, from distraught farmers to greedy merchants.",
+        "popularity": 434.696,
+        "poster_path": "\/9XkTpvSoZDZvKMf59rr940pujQD.jpg",
+        "first_air_date": "1975-10-15",
+        "name": "Ikky\u016b-san",
+        "vote_average": 7.5,
+        "vote_count": 13
+    },
+    "91426": {
+        "adult": false,
+        "backdrop_path": "\/lE501tGuJt5rgPsbdYxmbh3vGWx.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10762
+        ],
+        "id": 91426,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30b8\u30e5\u30a8\u30eb\u30da\u30c3\u30c8",
+        "overview": "A junior high school student named Rinko becomes partners with a rabbit Jewelpet named Ruby. Together they try to find the Jewel Charms that dropped from Jewel Land into the world of the humans. Along with their friends, Rinko and Ruby help others solve their problems while using the magic of Jewelpets.",
+        "popularity": 414.583,
+        "poster_path": "\/750II7VWRTSedLfpv7n6L1iVNLC.jpg",
+        "first_air_date": "2009-04-05",
+        "name": "Jewelpet",
+        "vote_average": 8.8,
+        "vote_count": 5
+    },
+    "118453": {
+        "adult": false,
+        "backdrop_path": "\/xzsMycOplSyWzV2HStNDdmPGax0.jpg",
+        "genre_ids": [
+            10759,
+            16
+        ],
+        "id": 118453,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u5de8\u4eba\u306e\u661f",
+        "overview": "In 1969, at the press conference of Nagashima Shigeo who was joining a professional baseball team, Yomiurhi Kyojin, a ball was thrown at him by a boy. He was Hoshi Hyuma, and a thrown ball meant a letter of challenge. His father, Hoshi Ittetsu, had trained Huma since he had been very young to achieve his dream to make him a professional baseball player.",
+        "popularity": 358.979,
+        "poster_path": "\/3AvF4Z6v9ScbwCGDKKGfGSF5xU2.jpg",
+        "first_air_date": "1968-03-30",
+        "name": "Star of the Giants",
+        "vote_average": 7.8,
+        "vote_count": 2
+    },
+    "44371": {
+        "adult": false,
+        "backdrop_path": "\/bOiT83l2txv8oErjW3oae04Oq1G.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765,
+            35
+        ],
+        "id": 44371,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u5b87\u5b99\u8239\u30b5\u30b8\u30bf\u30ea\u30a6\u30b9",
+        "overview": "Uch\u016bsen Sagittarius is a 77-episode Japanese science fiction anime series directed by Kazuyoshi Yokota and created by Nippon Animation and TV Asahi. It aired from January 10, 1986 to October 3, 1987.\n\nThe series is based on Altri Mondi, an Italian comic book drawn by physicist Andrea Romol.",
+        "popularity": 408.59,
+        "poster_path": "\/pGlKqwpaqdig9208sgJQCi65YnB.jpg",
+        "first_air_date": "1986-01-10",
+        "name": "Spaceship Sagittarius",
+        "vote_average": 7.2,
+        "vote_count": 4
+    },
+    "204832": {
+        "adult": false,
+        "backdrop_path": "\/p1swd15DRtCnNj20U904dbXeVsi.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10759,
+            10765
+        ],
+        "id": 204832,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30de\u30c3\u30b7\u30e5\u30eb-MASHLE-",
+        "overview": "In the magic realm, magic is everything\u2014everyone can use it, and one\u2019s social status is determined by their skill level. Deep in the forest, oblivious to the ways of the world, lives Mash. Thanks to his daily training, he\u2019s become a fitness god, but he harbors a secret that could turn his life upside down\u2014he can\u2019t use magic! When he\u2019s found out, rather than his life being over, he\u2019s unexpectedly enrolled in magic school, where he must beat the competition!",
+        "popularity": 545.689,
+        "poster_path": "\/dzCABR0joqtA0flLYpWAXc8mML1.jpg",
+        "first_air_date": "2023-04-08",
+        "name": "MASHLE: MAGIC AND MUSCLES",
+        "vote_average": 8.335,
+        "vote_count": 236
+    },
+    "34186": {
+        "adult": false,
+        "backdrop_path": "\/sQ6udM8ZUNPxrOtut8T4sP27tOR.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10762
+        ],
+        "id": 34186,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30c1\u30fc\u30ba\u30b9\u30a4\u30fc\u30c8\u30db\u30fc\u30e0",
+        "overview": "An American Shorthair kitten wanders away from her mother and siblings one day while enjoying a walk outside. Lost in her surroundings, she struggles to find her way back home. She is soon found by the Yamada family. Finding a home for her proves to be difficult, so the family eventually decides to keep the kitten, naming her \"Chi\".",
+        "popularity": 366.485,
+        "poster_path": "\/xEJmKzbOq87E7eMp0eatgmJ2DSa.jpg",
+        "first_air_date": "2008-03-31",
+        "name": "Chi's Sweet Home",
+        "vote_average": 6.4,
+        "vote_count": 14
+    },
+    "30984": {
+        "adult": false,
+        "backdrop_path": "\/qtfMr08KQsWXnCHY0a96N8NpQ2l.jpg",
+        "genre_ids": [
+            10759,
+            16,
+            10765
+        ],
+        "id": 30984,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "popularity": 427.383,
+        "poster_path": "\/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "first_air_date": "2004-10-05",
+        "name": "Bleach",
+        "vote_average": 8.386,
+        "vote_count": 1701
+    },
+    "194916": {
+        "adult": false,
+        "backdrop_path": "\/wKQtFAwerjvaM9Bu56fOzPELkQ3.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 194916,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u3061\u3044\u304b\u308f",
+        "overview": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" (Nanka Chiisakute Kawaii Yatsu) known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.",
+        "popularity": 425.214,
+        "poster_path": "\/knJg7Uyhg66GPHfGRwadD2r2uew.jpg",
+        "first_air_date": "2022-04-04",
+        "name": "Chiikawa",
+        "vote_average": 8.8,
+        "vote_count": 4
+    },
+    "80559": {
+        "adult": false,
+        "backdrop_path": "\/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
+        "genre_ids": [
+            10759,
+            16,
+            35,
+            10762,
+            10765,
+            18
+        ],
+        "id": 80559,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30d1\u30ba\u30c9\u30e9",
+        "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+        "popularity": 394.746,
+        "poster_path": "\/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+        "first_air_date": "2018-04-02",
+        "name": "Puzzle & Dragons",
+        "vote_average": 8,
+        "vote_count": 3
+    },
+    "57911": {
+        "adult": false,
+        "backdrop_path": "\/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
+        "genre_ids": [
+            10759,
+            16,
+            35,
+            10765
+        ],
+        "id": 57911,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "\u30c9\u30e9\u3048\u3082\u3093",
+        "overview": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is the much more successful successor of the 1973 anime.",
+        "popularity": 501.609,
+        "poster_path": "\/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "first_air_date": "1979-04-02",
+        "name": "Doraemon",
+        "vote_average": 7.658,
+        "vote_count": 577
+    }
+}
